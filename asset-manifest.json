@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peru-leni-jeevi/static/css/main.b8df6a1e.css",
+    "main.js": "/peru-leni-jeevi/static/js/main.2e265214.js",
+    "static/js/453.8ab44547.chunk.js": "/peru-leni-jeevi/static/js/453.8ab44547.chunk.js",
+    "index.html": "/peru-leni-jeevi/index.html",
+    "main.b8df6a1e.css.map": "/peru-leni-jeevi/static/css/main.b8df6a1e.css.map",
+    "main.2e265214.js.map": "/peru-leni-jeevi/static/js/main.2e265214.js.map",
+    "453.8ab44547.chunk.js.map": "/peru-leni-jeevi/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8df6a1e.css",
+    "static/js/main.2e265214.js"
+  ]
+}
