@@ -9,7 +9,7 @@ import traceback
 
 class BlackboxAI:
     def __init__(self, session_id=None, csrf_token=None):
-        self.base_url = "https://www.blackbox.ai"
+        self.base_url = "https://api.blackbox.ai"
         self.session_id = session_id
         self.csrf_token = csrf_token
         self.history_dir = "chat_history"
